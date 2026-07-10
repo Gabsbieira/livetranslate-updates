@@ -2,6 +2,6 @@
 {
   "latest_version": "1.1",
   "installer_url": "https://github.com/Gabsbieira/livetranslate-updates/releases/download/v1.1/LiveTranslate-Setup.exe",
-  "installer_sha256": "08db9e337758348cc351605e83daa6480591713d650a72f7ae9d233cc64478e9",
+  "installer_sha256": "63c3f9e4b45bdf8564a06c27c3ae6984bf77231d286e026e8c71420acf9ec70f",
   "notes": "Test update"
 }
